@@ -29,5 +29,5 @@ Run : ./tabchi-0.sh
 
 #### channel      [Uniquer_tm](https://telegram.me/Uniquer_tm)
 #### Pv Resan     [PvResanUniquerBot](https://telegram.me/PvResanUniquerBot)
-#### Blog         [UNIQUER.BLOG.IR](UNIQUER.BLOG.IR) 
+#### Blog         [UNIQUER.BLOG.IR](https://UNIQUER.BLOG.IR) 
 
